@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="GokuShortDescription">Saiyan hero with a heart of gold, constantly seeking strength and protecting Earth and his loved ones.\nMarried to Chi-Chi, father of Gohan and Goten.</string>
+    <string name="VegetaShortDescription">Proud Saiyan prince obsessed with surpassing Goku, driven by his pride.\nMarried to Bulma, father of Trunks.</string>
+    <string name="PiccoloShortDescription">Former enemy turned wise Namekian ally, skilled strategist and powerful warrior.\nPivotal in training and unlocking Gohan\'s full potential.</string>
+    <string name="GohanShortDescription">Goku and Chi-Chi\'s son, harboring immense latent potential, pivotal in saving Earth.</string>
+    <string name="KrillinShortDescription">Loyal human friend, skilled martial artist, vital member of Z-fighters.</string>
+    <string name="TrunksShortDescription">Courageous warrior, son of Vegeta and Bulma, Expert swordsman.</string>
+    <string name="GotenShortDescription">Goku\'s playful and adventurous younger son, eager to train.</string>
+    <string name="FriezaShortDescription">Son of King Cold, Ruthless galactic emperor, seeks universal domination, archenemy of Goku.</string>
+    <string name="MajinBuShortDescription">One of Majin-Bu\'s many forms, A true menace with immense power.\nWreaks havoc, almost obliterating the Z-fighters.</string>
+    <string name="CellShortDescription">Bio-engineered android, evolves to achieve perfection, threatens humanity.</string>
+    <string name="Android16ShortDescription">Former enemy turned peaceful, powerful android programmed for protection, harboring a love for nature.</string>
+    <string name="Android17ShortDescription">Free-spirited, rebellious android with exceptional combat skills and a love for adventure.</string>
+    <string name="Android18ShortDescription">Confident, cunning android skilled in combat, former foe, turned friend\nlater in life marries Krillin starting a family together.</string>
+    <string name="BrolyShortDescription">Legendary Saiyan with immense power, initially driven by rage, later finds peace in life.</string>
+    <string name="BulmaShortDescription">Brilliant scientist and entrepreneur, key figure in Dragon Ball, known for her ingenuity.\nWife of Vegeta.</string>
+    <string name="TienShortDescription">Disciplined martial artist with a strong sense of honor, skilled in ki manipulation.</string>
+    <string name="YamchaShortDescription">Former desert bandit turned skilled martial artist and loyal friend to Goku and company.</string>
+</resources>
